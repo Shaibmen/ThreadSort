@@ -1,0 +1,3 @@
+﻿  DynamicSort.cpp
+D:\Projects\C++\DynamicSort\DynamicSort.cpp(86,39): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  DynamicSort.vcxproj -> D:\Projects\C++\DynamicSort\x64\Debug\DynamicSort.exe
